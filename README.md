@@ -1,4 +1,21 @@
 ## Hi there 👋
+My name is Kavuyi, a data analyst, a medical doctor, and an educator.
+
+I am passionate about data and how much more successful we can be when we use it to make decisions.
+
+When I see data in any form, my blood dances. I want to query what happened.
+
+I am currently working on projects for my portfolio.
+
+## Tools
+The Tools I use are MS Excel, MySQL and Power BI.
+
+To reach out to me, please go to linkedIn [Here](linkedin.com/in/kavuyi-muhandu) 
+
+# Funfacts
+- I love Mysteries and the unknown. 
+- Always up for learning new things!
+- Hobbies: Reading! Building projects! and more Reading!📖
 
 <!--
 **Vuyi736/Vuyi736** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
