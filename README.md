@@ -6,6 +6,7 @@ I am passionate about data and how much more successful we can be when we use it
 When I see data in any form, my blood dances. I want to query what happened.
 
 I am currently working on projects for my portfolio.
+Contributions are always welcome! 
 
 ## Tools
 The Tools I use are MS Excel, MySQL and Power BI.
