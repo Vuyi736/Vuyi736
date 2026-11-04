@@ -1,15 +1,23 @@
 ## Hi there 👋
 My name is Kavuyi, a data analyst, a medical doctor, and an educator.
 
-I am passionate about data and how much more successful we can be when we use it to make decisions.
+I am passionate about data and how much more successful we can be when we use it to make informed decisions.
 
 When I see data in any form, my blood dances. I want to query what happened.
 
-I am currently working on projects for my portfolio.
+I am currently working on projects for my portfolio. Open to collaborate as well.
 Contributions are always welcome! 
 
 ## Tools
 The Tools I use are MS Excel, MySQL and Power BI.
+
+## My current Skills using the aforementioned tools
+- Data cleaning
+- Data validation
+- Data modelling
+- Data Analysis (Descriptive, Diagnostic, Prescriptive, Predictive analyses, etc.)
+- Business Intelligence
+- BI Dashboards
 
 To reach out to me, please go to linkedIn [Here](linkedin.com/in/kavuyi-muhandu) 
 
