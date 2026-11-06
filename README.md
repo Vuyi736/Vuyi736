@@ -5,7 +5,7 @@ I am passionate about data and how much more successful we can be when we use it
 
 When I see data in any form, my blood dances. I want to query what happened.
 
-I am currently working on projects for my portfolio. Open to collaborate as well.
+I am currently working on projects that improve the workflow. Open to collaborate as well.
 Contributions are always welcome! 
 
 ## Tools
